@@ -1,0 +1,7 @@
+ul > li{
+    cursor: pointer;
+    transition: all 0.35s ease-in-out;
+}
+ul > li.active{
+    color:yellowgreen;
+}
