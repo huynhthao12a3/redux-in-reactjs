@@ -17,4 +17,4 @@
 
 3. Connect to redux store from component
 
-- Using the two hooks hehee 🎉
+- Using the two hooks 🎉
